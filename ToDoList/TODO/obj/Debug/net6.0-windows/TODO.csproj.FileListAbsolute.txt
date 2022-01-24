@@ -1,0 +1,100 @@
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage1.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage1.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO_MarkupCompile.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO_MarkupCompile.lref
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\TODO.exe
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\TODO.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\TODO.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bin\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.g.resources
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\TODO.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage2.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage2.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\TODO.exe
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\TODO.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\TODO.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\bin\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage1.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage2.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage1.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage2.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO_MarkupCompile.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO_MarkupCompile.lref
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.g.resources
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\Todo\obj\Debug\net6.0-windows\TODO.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\TODO.exe
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\TODO.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\TODO.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\bin\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage1.baml
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage2.baml
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage1.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\ContentPages\ContentPage2.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO_MarkupCompile.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO_MarkupCompile.lref
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.g.resources
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\Todo\obj\Debug\net6.0-windows\TODO.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\TODO.exe
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\TODO.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\TODO.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\bin\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage1.baml
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage2.baml
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage1.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\ContentPages\ContentPage2.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO_MarkupCompile.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO_MarkupCompile.lref
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.g.resources
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\ref\TODO.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\TODO\obj\Debug\net6.0-windows\TODO.genruntimeconfig.cache

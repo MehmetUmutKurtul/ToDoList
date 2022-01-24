@@ -1,0 +1,72 @@
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\tAkO\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\bin\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ref\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\ToDoDataAccess\obj\Debug\net6.0\ToDoDataAccess.pdb

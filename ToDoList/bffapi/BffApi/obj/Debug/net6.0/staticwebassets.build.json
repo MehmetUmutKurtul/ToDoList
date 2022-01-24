@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kBuYjivTTLutMMgWANzjP4AvthcJw3BcZY3b4dyCjm8=",
+  "Source": "BffApi",
+  "BasePath": "_content/BffApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

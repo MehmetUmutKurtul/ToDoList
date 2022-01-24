@@ -1,0 +1,228 @@
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.exe
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\BffApi.xml
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.xml
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\appsettings.json
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.exe
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.xml
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\tAkO\api\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.dll
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.xml
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\tAkO\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\BffApi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\appsettings.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.exe
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\bffapi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\appsettings.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.exe
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\bffapi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\appsettings.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.exe
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\bffapi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\appsettings.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.exe
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.runtimeconfig.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\bin\Debug\net6.0\ToDoDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\scopedcss\bundle\BffApi.styles.css
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.csproj.CopyComplete
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\ref\BffApi.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.xml
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\bffapi\obj\Debug\net6.0\BffApi.genruntimeconfig.cache

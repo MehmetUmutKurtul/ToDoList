@@ -1,0 +1,72 @@
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\Tako\Desktop\PRG\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\tAkO\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\tAkO\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\tAkO\api\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\tAkO\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\tAkO\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\api\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\TODO\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\Todo Proje(Tamamlandı)\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.deps.json
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\bin\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\bin\Debug\net6.0\LoginDataAccess.pdb
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.AssemblyReference.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfoInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.AssemblyInfo.cs
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\ref\LoginDataAccess.dll
+C:\Users\FB_um\OneDrive\Masaüstü\ToDoList\bffapi\LoginDataAccess\obj\Debug\net6.0\LoginDataAccess.pdb
